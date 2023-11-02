@@ -1,0 +1,27 @@
+.qq{
+    display: flex;
+    gap: 50%;
+    line-height: 20px;
+}
+.image {
+    width: 20%;
+    height: 2%;
+}
+.top{
+    border: 10px;
+    padding: 10px;
+    display : flex;
+    border-color: black;
+    width: 50%;
+    gap: 20%;
+    border-color: black;
+}
+.middle{
+    border: 10px;
+    padding: 10px;
+    display : flex;
+    border-color: black;
+    width: 50%;
+    gap: 20%;
+    border-color: black;
+}
